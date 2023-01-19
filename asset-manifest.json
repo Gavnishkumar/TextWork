@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextWork/static/css/main.8ba8dc99.css",
+    "main.js": "/TextWork/static/js/main.981b8f64.js",
+    "static/js/787.d3befce1.chunk.js": "/TextWork/static/js/787.d3befce1.chunk.js",
+    "index.html": "/TextWork/index.html",
+    "main.8ba8dc99.css.map": "/TextWork/static/css/main.8ba8dc99.css.map",
+    "main.981b8f64.js.map": "/TextWork/static/js/main.981b8f64.js.map",
+    "787.d3befce1.chunk.js.map": "/TextWork/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba8dc99.css",
+    "static/js/main.981b8f64.js"
+  ]
+}
